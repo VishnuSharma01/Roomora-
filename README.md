@@ -9,5 +9,3 @@ A simple rental listing web application built with Node.js and MongoDB.
 🔐 User authentication (Login / Signup)  
 🗄 MongoDB database for storing room details  
 📱 Responsive UI for desktop & mobile  
-
-More improvements coming soon! 🚀
